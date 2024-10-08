@@ -1,0 +1,114 @@
+
+.three-image-title-box {
+    width: 1024px;
+    height: auto;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 30px;
+}
+
+.image-box-titel {
+    position: relative;
+    width: 30%;
+    margin: auto;
+}
+
+.image-box {
+    width: 100%;
+}
+
+
+.image-box img {
+    max-width: 100%;
+}
+
+.image-titel {
+    position: absolute;
+    bottom: 0;
+    color: wheat;
+    background-color: rgba(0,0,0, .5);
+    width: 100%;
+    text-align: center;
+    font-size: 10px;
+}
+
+
+
+.extra-image {
+    width: 1024px;
+    height: auto;
+    margin: auto;
+    position: relative;
+}
+
+.extra-image img {
+    width: 100%;
+}
+
+.four-image-box-1 {
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border: 5px solid red;
+    overflow: hidden;
+    border-radius: 47%;
+}
+
+.four-image-box-1 img {
+    width: 250px;
+    height: 150px;
+}
+
+
+.four-image-box-2 {
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    border: 5px solid yellowgreen;
+    overflow: hidden;
+    border-radius: 47%;
+}
+
+.four-image-box-2 img {
+    width: 250px;
+    height: 150px;
+    }
+
+.four-image-box-3 {
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    border: 5px solid red;
+    overflow: hidden;
+    border-radius: 47%;
+}
+
+.four-image-box-3 img {
+    width: 250px;
+    height: 150px;
+    }
+
+.four-image-box-4 {
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    border: 5px solid blue;
+    overflow: hidden;
+    border-radius: 47%;
+}
+
+.four-image-box-4 img {
+    width: 250px;
+    height: 150px;
+    }
+
+
